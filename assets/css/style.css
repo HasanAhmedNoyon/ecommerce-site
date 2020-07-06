@@ -1,9 +1,11 @@
 .container{
     margin-bottom: 100px;
 }
+
 .carousel-bg{
     background-color: #FEEAE9;
     padding: 20px 40px;
+    border-radius: 15px;
 }
 .price{
     color: #FF136F;
@@ -19,4 +21,44 @@ button{
 }
 .indicator{
     color: #FF136F;
+}
+.cat-1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.cat-2{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.cat-3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.categories h1{
+    color : white;
+
+}
+.categories img{
+    width: 100px;
+}
+
+
+.card{
+    border: none;
+    box-shadow: 2px 2px 7px lightslategray;
+}
+.card-footer{
+    border-top: none;
+    padding: 0;
+    background-color: white;
+}
+.subscribe{
+    height: 200px;
+}
+.subscribe input{
+    margin: 10px 0;
 }
