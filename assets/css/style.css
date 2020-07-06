@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-bg{
+    background-color: #FEEAE9;
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+    font-weight: 900;
+}
+button{
+    padding: 9px 25px;
+    background-color: #FF136F;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    
+}
+.indicator{
+    color: #FF136F;
+}
